@@ -6,47 +6,60 @@ body {
     padding: 20px;
 }
 
-h1 {
+.main-title, #locations-title {
     text-align: center;
     color: #c79c6e;
+}
+
+.hidden {
+    display: none;
+}
+
+#regions-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+}
+
+.region-card {
+    background-color: #2a2a2a;
+    border: 1px solid #c79c6e;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.region-card:hover {
+    background-color: #3a3a3a;
+    transform: translateY(-5px);
+}
+
+#back-button {
+    background-color: #c79c6e;
+    color: #1a1a1a;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+#back-button:hover {
+    background-color: #b38a5e;
 }
 
 #locations-container {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
 }
 
-.region {
+.location-item {
     background-color: #2a2a2a;
-    border: 1px solid #c79c6e;
-    border-radius: 5px;
     padding: 15px;
-}
-
-.region-title {
-    margin-top: 0;
-    color: #c79c6e;
-    cursor: pointer;
-    user-select: none; /* Prevents text selection on click */
-}
-
-.locations-list {
-    display: none; /* Hidden by default */
-    padding-left: 20px;
-    border-left: 2px solid #c79c6e;
-    margin-top: 10px;
-}
-
-.locations-list.active {
-    display: block; /* Shown when active */
-}
-
-.location {
-    padding: 10px 0;
-}
-
-.location h3 {
-    margin: 0;
-    font-weight: normal;
+    border-left: 3px solid #c79c6e;
 }

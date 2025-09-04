@@ -1,16 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elden Ring Guide</title>
+    <title>Guía de Elden Ring</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#c79c6e">
 </head>
 <body>
-    <h1>Elden Ring Locations</h1>
-    <div id="locations-container"></div>
+
+    <div id="regions-view">
+        <h1 class="main-title">Regiones de Elden Ring</h1>
+        <div id="regions-container"></div>
+    </div>
+
+    <div id="locations-view" class="hidden">
+        <button id="back-button">&larr; Volver a las Regiones</button>
+        <h1 id="locations-title"></h1>
+        <div id="locations-container"></div>
+    </div>
+
     <script src="js/main.js"></script>
 </body>
 </html>
