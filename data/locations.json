@@ -1,0 +1,194 @@
+[
+    {
+        "name": "The First Step",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Church of Elleh",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Groveside Cave",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Coastal Cave",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Stormfoot Catacombs",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Gatefront",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Agheel Lake North",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Agheel Lake South",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Waypoint Ruins Cellar",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Murkwater Catacombs",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Murkwater Cave",
+        "region": "Limgrave"
+    },
+    {
+        "name": "Bridge of Sacrifice",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Castle Morne Rampart",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Castle Morne Lift",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Behind the Castle",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Beside the Rampart Gaol",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Morne Moangrave",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "South of the Lookout Tower",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Ailing Village",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Callu Baptismal Church",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Earthbore Cave",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Tombsward",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Tombsward Catacombs",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Tombsward Cave",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Impaler's Catacombs",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Oridys's Rise",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Fourth Church of Marika",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Witchbane Ruins",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Isolated Merchant's Shack (Weeping Peninsula)",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Tower of Return",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Church of Pilgrimage",
+        "region": "Weeping Peninsula"
+    },
+    {
+        "name": "Stormveil Main Gate",
+        "region": "Stormveil Castle"
+    },
+    {
+        "name": "Stormveil Cliffside",
+        "region": "Stormveil Castle"
+    },
+    {
+        "name": "Rampart Tower",
+        "region": "Stormveil Castle"
+    },
+    {
+        "name": "Liftside Chamber",
+        "region": "Stormveil Castle"
+    },
+    {
+        "name": "Secluded Cell",
+        "region": "Stormveil Castle"
+    },
+    {
+        "name": "Godrick the Grafted",
+        "region": "Stormveil Castle"
+    },
+    {
+        "name": "Lake-Facing Cliffs",
+        "region": "Liurnia of the Lakes"
+    },
+    {
+        "name": "Liurnia Lake Shore",
+        "region": "Liurnia of the Lakes"
+    },
+    {
+        "name": "Laskyar Ruins",
+        "region": "Liurnia of the Lakes"
+    },
+    {
+        "name": "Scenic Isle",
+        "region": "Liurnia of the Lakes"
+    },
+    {
+        "name": "Academy Gate Town",
+        "region": "Liurnia of the Lakes"
+    },
+    {
+        "name": "South Raya Lucaria Gate",
+        "region": "Liurnia of the Lakes"
+    },
+    {
+        "name": "Main Academy Gate",
+        "region": "Academy of Raya Lucaria"
+    },
+    {
+        "name": "Church of the Cuckoo",
+        "region": "Academy of Raya Lucaria"
+    },
+    {
+        "name": "Schoolhouse Classroom",
+        "region": "Academy of Raya Lucaria"
+    },
+    {
+        "name": "Debate Parlor",
+        "region": "Academy of Raya Lucaria"
+    },
+    {
+        "name": "Rennala, Queen of the Full Moon",
+        "region": "Academy of Raya Lucaria"
+    }
+]

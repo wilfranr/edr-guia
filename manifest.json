@@ -1,0 +1,9 @@
+{
+    "name": "Elden Ring Guide",
+    "short_name": "EDR Guide",
+    "description": "A guide to the world of Elden Ring.",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#1a1a1a",
+    "theme_color": "#c79c6e"
+}
