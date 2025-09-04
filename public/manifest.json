@@ -1,0 +1,22 @@
+{
+  "name": "The Tarnished's Companion",
+  "short_name": "Tarnished's Comp.",
+  "description": "A PWA guide for the Lands Between in Elden Ring.",
+  "start_url": ".",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#CFA152",
+  "icons": [
+    {
+      "src": "vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
